@@ -754,7 +754,7 @@ Nel nostro progetto utilizziamo questo pattern per la creazione dei messaggi rel
 ### Singleton
 Il singleton è un design pattern creazionale che ha lo scopo di garantire che di una determinata classe venga creata una e una sola istanza, e di fornire un punto di accesso globale a tale istanza. 
 
-Nel nostro progetto lo utilizziamo per effettuare la conNesione al database, in maniera tale che di essa vi sia una sola istanza così da non consumare iutilmente risorse computazionali.
+Nel nostro progetto lo utilizziamo per effettuare la connessione al database, in maniera tale che di essa vi sia una sola istanza così da non consumare inutilmente risorse computazionali.
 
 ### Chain Of Responsability & Middleware
 La **catena di responsabilità** è un pattern comportamentale che consente di passare le richieste lungo una catena di gestori.
